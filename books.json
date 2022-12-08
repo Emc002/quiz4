@@ -2,9 +2,9 @@
   "books": [
     {
       "id": 1,
-      "title": "ONEPIECE",
-      "author": "ODA",
-      "categories": "ANIME"
+      "title": "7 Awarness",
+      "author": "anonym",
+      "categories": "self improvement"
     },
     {
       "title": "THE IMPPOSIBLE",
@@ -13,15 +13,15 @@
       "id": 2
     },
     {
-      "title": "NARUTO",
-      "author": "MASHASHI KISHIMOTO",
-      "categories": "ANIME",
+      "title": "Limitless",
+      "author": "jim kwick",
+      "categories": "self improvement",
       "id": 3
     },
     {
-      "title": "DRAGON BALL",
-      "author": "GOKU",
-      "categories": "ANIME",
+      "title": "Quantum Iklhas",
+      "author": "erbe sentanu",
+      "categories": "self improvement",
       "id": 4
     },
     {
